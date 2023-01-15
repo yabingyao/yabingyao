@@ -1,4 +1,4 @@
-- I am associate professor of [Computer and coummunication](https://jitong.lut.edu.cn/) at [Lanzhou University of Technology](https://www.lut.edu.cn/).
+- I am associate professor of [School of Computer and Coummunication](https://jitong.lut.edu.cn/) at [Lanzhou University of Technology](https://www.lut.edu.cn/).
 - I’m interested in Machine Learning on Graph and Network Science.
 
 <!---
